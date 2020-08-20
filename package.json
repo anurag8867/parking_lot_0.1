@@ -1,0 +1,16 @@
+{
+  "name": "parking_lot",
+  "version": "1.0.0",
+  "description": "Parking lot model",
+  "main": "client.js",
+  "scripts": {
+    "test": "mocha 'test/unit/**/*.test.js'",
+    "start": "node client.js"
+  },
+  "author": "Anurag",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1"
+  }
+}
